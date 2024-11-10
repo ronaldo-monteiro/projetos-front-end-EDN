@@ -10,3 +10,11 @@ o objetivo era criar uma página com uma estrura bem organizada com títulos, li
 So segundo projeto desenvolvemos uma página simples com uma receita de bolo de cenoura com cobertura de chocolate.
 
 Utilizamos mais listas ordenadas e não ordenadas, inserimos links.
+
+## Projeto 3 
+
+Criação de um portifólio para servços de desenvolvedor WEB.
+
+No primeiro arquivo criamos o código em HTML puro.
+
+No segundo arquivo adicionamos o código CSS integrado na mesma página.
