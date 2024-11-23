@@ -13,7 +13,7 @@ Utilizamos mais listas ordenadas e não ordenadas, inserimos links.
 
 ## Projeto 3 
 
-Criação de um portifólio para servços de desenvolvedor WEB.
+Criação de um portifólio genérico para servços de desenvolvedor WEB.
 
 No primeiro arquivo criamos o código em HTML puro.
 
