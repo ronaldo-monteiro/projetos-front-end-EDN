@@ -17,4 +17,4 @@ Criação de um portifólio para servços de desenvolvedor WEB.
 
 No primeiro arquivo criamos o código em HTML puro.
 
-No segundo arquivo adicionamos o código CSS integrado na mesma página.
+No segundo arquivo adicionamos o código CSS integrado na mesma página
